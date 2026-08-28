@@ -1,1 +1,6 @@
+vless://7ed77161-7672-c368-5b1e-9a080b1c5e06@pooriaorg1pooriaorg1.up.railway.app:443?type=xhttp&security=tls&fp=chrome&sni=pooriaorg1pooriaorg1.up.railway.app&path=/xhttp-siz10/stream-up/7ed77161-7672-c368-5b1e-9a080b1c5e06&host=pooriaorg1pooriaorg1.up.railway.app&mode=stream-up&alpn=h2,http/1.1#🥷🏻🕊️-pooria%20s%20up
+
+vless://02af7b66-dccd-190b-53d8-effd8b81cb74@pooriaorg1pooriaorg1.up.railway.app:443?type=xhttp&security=tls&fp=chrome&sni=pooriaorg1pooriaorg1.up.railway.app&path=/xhttp-siz10/packet-up/02af7b66-dccd-190b-53d8-effd8b81cb74&host=pooriaorg1pooriaorg1.up.railway.app&mode=packet-up&alpn=h2,http/1.1#🥷🏻🕊️-pooria%20%20p%20up
+
+vless://e58071e7-86fb-c40b-0fdb-7d2a6631153d@pooriaorg1pooriaorg1.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=pooriaorg1pooriaorg1.up.railway.app&path=/ws/e58071e7-86fb-c40b-0fdb-7d2a6631153d&host=pooriaorg1pooriaorg1.up.railway.app&alpn=h2#🥷🏻🕊️-POORIARED WS
 
