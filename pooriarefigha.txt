@@ -1,11 +1,4 @@
-vless://7ed77161-7672-c368-5b1e-9a080b1c5e06@pooriaorg1pooriaorg1.up.railway.app:443?type=xhttp&security=tls&fp=chrome&sni=pooriaorg1pooriaorg1.up.railway.app&path=/xhttp-siz10/stream-up/7ed77161-7672-c368-5b1e-9a080b1c5e06&host=pooriaorg1pooriaorg1.up.railway.app&mode=stream-up&alpn=h2,http/1.1#🥷🏻🕊️-pooria%20s%20up
+vless://ed55637c-ea05-401a-8470-a61382238a29@pooriaredab7.up.railway.app:443?type=xhttp&security=tls&fp=chrome&sni=pooriaredab7.up.railway.app&path=/xhttp-siz10/stream-up/ed55637c-ea05-401a-8470-a61382238a29&host=pooriaredab7.up.railway.app&mode=stream-up&extra=%7B%22xPaddingBytes%22:%22100-1000%22,%22mode%22:%22stream-up%22,%22scMaxEachPostBytes%22:%221000000%22%7D&alpn=h2,http/1.1#🥷🏻💦-pooriaredab7
 
-vless://02af7b66-dccd-190b-53d8-effd8b81cb74@pooriaorg1pooriaorg1.up.railway.app:443?type=xhttp&security=tls&fp=chrome&sni=pooriaorg1pooriaorg1.up.railway.app&path=/xhttp-siz10/packet-up/02af7b66-dccd-190b-53d8-effd8b81cb74&host=pooriaorg1pooriaorg1.up.railway.app&mode=packet-up&alpn=h2,http/1.1#🥷🏻🕊️-pooria%20%20p%20up
+vless://ed55637c-ea05-401a-8470-a61382238a29@pooriaredab7.up.railway.app:443?type=xhttp&security=tls&fp=chrome&sni=pooriaredab7.up.railway.app&path=/xhttp-siz10/packet-up/ed55637c-ea05-401a-8470-a61382238a29&host=pooriaredab7.up.railway.app&mode=packet-up&extra=%7B%22xPaddingBytes%22:%22100-1000%22,%22mode%22:%22packet-up%22,%22scMaxEachPostBytes%22:%221000000%22%7D&alpn=h2,http/1.1#🥷🏻🧑🏻‍💻-pooriaredab7
 
-vless://e58071e7-86fb-c40b-0fdb-7d2a6631153d@pooriaorg1pooriaorg1.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=pooriaorg1pooriaorg1.up.railway.app&path=/ws/e58071e7-86fb-c40b-0fdb-7d2a6631153d&host=pooriaorg1pooriaorg1.up.railway.app&alpn=h2#🥷🏻🕊️-POORIARED WS
-
-vless://c518e66a-6cc4-b27d-eddc-c68a327adc53@pooriaorg10.up.railway.app:443?type=xhttp&security=tls&fp=chrome&sni=pooriaorg10.up.railway.app&path=/xhttp-siz10/stream-up/c518e66a-6cc4-b27d-eddc-c68a327adc53&host=pooriaorg10.up.railway.app&mode=stream-up&alpn=h2,http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB%E2%8F%B3%F0%9F%92%A6-POORIA%20%20XHTTP%20%C2%B7%20stream-up
-
-vless://0950a912-6b25-4e35-f10b-db0fe710a4fb@pooriaorg10.up.railway.app:443?type=xhttp&security=tls&fp=chrome&sni=pooriaorg10.up.railway.app&path=/xhttp-siz10/packet-up/0950a912-6b25-4e35-f10b-db0fe710a4fb&host=pooriaorg10.up.railway.app&mode=packet-up&alpn=h2,http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB%E2%8F%B3%F0%9F%92%A6-POORIA%20%20XHTTP%20%C2%B7%20packet-up
-
-vless://38fef584-8c54-794a-162f-1e83aa00e7ff@pooriaorg10.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=pooriaorg10.up.railway.app&path=/ws/38fef584-8c54-794a-162f-1e83aa00e7ff&host=pooriaorg10.up.railway.app&alpn=h2,http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB%E2%8F%B3%F0%9F%92%A6-POORIA%20WebSocket
