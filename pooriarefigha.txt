@@ -11,3 +11,4 @@ vless://8d735019-5ee4-4694-829c-dbebf7f40c55@redfreee8pooria.up.railway.app:443?
 trojan://@app-production-3a74.up.railway.app:443?type=xhttp&security=tls&fp=chrome&sni=app-production-3a74.up.railway.app&path=/txhttp-siz10/stream-up/77c010ba-bc3a-5640-9e84-2f9ba57c2adb&host=app-production-3a74.up.railway.app&mode=stream-up&alpn=h2,http/1.1#%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB-pooria%20xhttp%20s%20up
 
 trojan://@app-production-3a74.up.railway.app:443?type=xhttp&security=tls&fp=chrome&sni=app-production-3a74.up.railway.app&path=/txhttp-siz10/packet-up/1bd040fe-d388-1f23-8358-37f54f9f9389&host=app-production-3a74.up.railway.app&mode=packet-up&alpn=h2,http/1.1#%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB-pooria%20xhttp%20p%20up
+
