@@ -15,4 +15,3 @@ vless://91eae6c4-f4de-b91c-3a81-9ac2e3000b99@www.speedtest.net:443?insecure=0&ty
 vless://91eae6c4-f4de-b91c-3a81-9ac2e3000b99@www.speedtest.net:443?ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&sni=pooriared.pooriaultrapanell1.workers.dev&security=tls&type=ws&encryption=none&host=pooriared.pooriaultrapanell1.workers.dev&path=%2Fsync&allowInsecure=0&insecure=0&fp=chrome#POORIARED-ultrapanel2
 
 vless://91eae6c4-f4de-b91c-3a81-9ac2e3000b99@www.speedtest.net:443?encryption=none&fp=chrome&insecure=0&sni=pooriared.pooriaultrapanel.workers.dev&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&security=tls&allowInsecure=0&type=ws&path=%2Fsync&host=pooriared.pooriaultrapanel.workers.dev#POORIARED-ultrapanel3
-
