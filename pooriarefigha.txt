@@ -1,9 +1,2322 @@
-vless://ae2d5dad-9d45-4094-a34e-8b1b4dd9704b@testman.seenode.app:443?encryption=none&fp=chrome&insecure=0&path=%2Fws%2Fae2d5dad-9d45-4094-a34e-8b1b4dd9704b&allowInsecure=0&host=testman.seenode.app&alpn=http%2F1.1&sni=testman.seenode.app&type=ws&security=tls#%F0%9F%A5%B7%F0%9F%8F%BBVIP%F0%9F%92%A6%F0%9F%86%98-pooriaorg1
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?host=pooriapazevarip1oiidjjsjs2.pooria.de5.net&sni=pooriapazevarip1oiidjjsjs2.pooria.de5.net&insecure=0&encryption=none&alpn=http%2F1.1%2Ch3%2Ch2&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1&allowInsecure=0&path=%2Fws%2F53fa8faf-ba4b-4322-9c69-a3e5b1555049&fp=chrome&security=tls&type=ws#%F0%9F%AB%82VIP%F0%9F%95%8A%EF%B8%8Fpooriapazevarip1oiidjjsjs2.pooria.de5.net
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?sni=pooriapazevariz1b1bbjdjw4.pooria.de5.net&alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1&type=ws&path=%2Fws%2F53fa8faf-ba4b-4322-9c69-a3e5b1555049&encryption=none&allowInsecure=0&security=tls&insecure=0&host=pooriapazevariz1b1bbjdjw4.pooria.de5.net#%F0%9F%AB%82VIP1%F0%9F%95%8A%EF%B8%8Fpooriapazevariz1b1bbjdjw4.pooria.de5.net
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@iranishop.redorg1.ir:443?fp=chrome&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1&host=pooriapazevariredpooriaab7.pooria.de5.net&security=tls&path=%2Fws%2F53fa8faf-ba4b-4322-9c69-a3e5b1555049&encryption=none&sni=pooriapazevariredpooriaab7.pooria.de5.net&alpn=http%2F1.1%2Ch2%2Ch3&insecure=0&allowInsecure=0&type=ws#%F0%9F%AB%82VIP2%F0%9F%95%8A%EF%B8%8Fpooriapazevariredpooriaab7.pooria.de5.net
-
-vless://b78629ed-a8aa-4c2b-96c0-1cf81f7c6540@www.speedtest.net:443?path=%2Fws%2Fb78629ed-a8aa-4c2b-96c0-1cf81f7c6540&insecure=0&type=ws&alpn=http%2F1.1%2Ch2%2Ch3&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1&sni=pooriapazevariredfree8.pooria.de5.net&security=tls&allowInsecure=0&host=pooriapazevariredfree8.pooria.de5.net&fp=chrome&encryption=none#%F0%9F%95%8A%EF%B8%8FVIP%F0%9F%A5%B7%F0%9F%8F%BBpooriapazevariredfree8.pooria.de5.net
+[
+  {
+    "_Streisand": [
+      "Please keep the Xray core and your v2ray client up to date; some clients may be incompatible",
+      "Use MASQUE with official endpoints or official clients only; third-party resources may cause privacy leaks or losses",
+      "This config is completely free! Beware of scams, and share it with your friends!",
+      "For technical research only. Delete the config after 24 hours; any other use is prohibited!",
+      "Website - https://darknessshade.github.io/Masque-Generator/",
+      "Telegram - https://t.me/ConfigWireguard"
+    ],
+    "log": {
+      "loglevel": "warning"
+    },
+    "dns": {
+      "hosts": {
+        "one.one.one.one": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "1dot1dot1dot1.cloudflare-dns.com": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "dns.google": [
+          "8.8.8.8",
+          "8.8.4.4",
+          "2001:4860:4860::8888",
+          "2001:4860:4860::8844"
+        ],
+        "cloudflare-dns.com": [
+          "104.16.249.249",
+          "104.16.248.249",
+          "2606:4700::6810:f8f9",
+          "2606:4700::6810:f9f9"
+        ],
+        "dns.cloudflare.com": [
+          "162.159.61.8",
+          "172.64.41.8",
+          "2a06:98c1:52::8",
+          "2803:f800:53::8"
+        ],
+        "dns.quad9.net": [
+          "9.9.9.9",
+          "149.112.112.112",
+          "2620:fe::fe",
+          "2620:fe::9"
+        ],
+        "dns.yandex.net": [
+          "77.88.8.8",
+          "77.88.8.1",
+          "2a02:6b8::feed:0ff",
+          "2a02:6b8:0:1::feed:0ff"
+        ],
+        "dns.sb": [
+          "45.11.45.11",
+          "185.222.222.222",
+          "2a09::",
+          "2a11::"
+        ],
+        "dns.umbrella.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "dns.sse.cisco.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "engage.cloudflareclient.com": [
+          "162.159.192.1",
+          "2606:4700:d0::a29f:c001"
+        ]
+      },
+      "servers": [
+        {
+          "address": "localhost",
+          "domains": [
+            "geosite:category-ir",
+            "domain:ir"
+          ],
+          "skipFallback": true,
+          "tag": "direct-dns"
+        },
+        "https://cloudflare-dns.com/dns-query",
+        "https://dns.google/dns-query",
+        "8.8.8.8"
+      ],
+      "tag": "dns-module"
+    },
+    "inbounds": [
+      {
+        "tag": "socks",
+        "port": 10808,
+        "listen": "0.0.0.0",
+        "protocol": "mixed",
+        "sniffing": {
+          "enabled": false,
+          "destOverride": [
+            "http",
+            "tls"
+          ],
+          "routeOnly": false
+        },
+        "settings": {
+          "auth": "noauth",
+          "udp": true,
+          "allowTransparent": false
+        }
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "masque",
+        "settings": {
+          "address": "162.159.198.96",
+          "port": 4443,
+          "remoteDNS": [
+            "1.1.1.1",
+            "8.8.8.8"
+          ]
+        },
+        "streamSettings": {
+          "method": "masque",
+          "masqueSettings": {
+            "warp": {
+              "privateKey": "MHcCAQEEIKzJbE0sAnTsDfyt8PRHR1EvH99PVeayIPdkzfQrkZjfoAoGCCqGSM49AwEHoUQDQgAEIYaopo5wbaH5EBGFnhQ0by2+nvk7Fuozru0oyHEuhPMyr4jXroAKgnciMbDs5ZTqBKDYP2ROOcr5jhRJMPfHPQ==",
+              "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIaU7MToJm9NKp8YfGxR6r+/h4mcG7SxI8tsW8OR1A5tv/zCzVbCRRh2t87/kxnP6lAy0lkr7qYwu+ox+k3dr6w==",
+              "address": [
+                "172.16.0.2/32",
+                "2606:4700:110:84ab:b305:8892:c769:b376/128"
+              ]
+            }
+          },
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "www.cloudflare.com",
+            "alpn": [
+              "h2"
+            ]
+          }
+        },
+        "tag": "proxy"
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom"
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "AsIs",
+      "rules": [
+        {
+          "type": "field",
+          "outboundTag": "proxy",
+          "domain": [
+            "domain:googleapis.cn",
+            "domain:gstatic.com"
+          ]
+        },
+        {
+          "type": "field",
+          "port": "443",
+          "network": "udp",
+          "outboundTag": "block"
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "geosite:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "domain:ir",
+            "geosite:category-ir"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:ir"
+          ]
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "direct-dns"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "dns-module"
+          ],
+          "outboundTag": "proxy"
+        }
+      ]
+    },
+    "metrics": {
+      "listen": "127.0.0.1:10812"
+    },
+    "policy": {
+      "system": {
+        "statsOutboundUplink": true,
+        "statsOutboundDownlink": true
+      }
+    },
+    "stats": {},
+    "remarks": "POORIARED H2 | Official | 162.159.198.96 | 4443 | MASQUE Nav"
+  },
+  {
+    "_Streisand": [
+      "Please keep the Xray core and your v2ray client up to date; some clients may be incompatible",
+      "Use MASQUE with official endpoints or official clients only; third-party resources may cause privacy leaks or losses",
+      "This config is completely free! Beware of scams, and share it with your friends!",
+      "For technical research only. Delete the config after 24 hours; any other use is prohibited!",
+      "Website - https://darknessshade.github.io/Masque-Generator/",
+      "Telegram - https://t.me/ConfigWireguard"
+    ],
+    "log": {
+      "loglevel": "warning"
+    },
+    "dns": {
+      "hosts": {
+        "one.one.one.one": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "1dot1dot1dot1.cloudflare-dns.com": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "dns.google": [
+          "8.8.8.8",
+          "8.8.4.4",
+          "2001:4860:4860::8888",
+          "2001:4860:4860::8844"
+        ],
+        "cloudflare-dns.com": [
+          "104.16.249.249",
+          "104.16.248.249",
+          "2606:4700::6810:f8f9",
+          "2606:4700::6810:f9f9"
+        ],
+        "dns.cloudflare.com": [
+          "162.159.61.8",
+          "172.64.41.8",
+          "2a06:98c1:52::8",
+          "2803:f800:53::8"
+        ],
+        "dns.quad9.net": [
+          "9.9.9.9",
+          "149.112.112.112",
+          "2620:fe::fe",
+          "2620:fe::9"
+        ],
+        "dns.yandex.net": [
+          "77.88.8.8",
+          "77.88.8.1",
+          "2a02:6b8::feed:0ff",
+          "2a02:6b8:0:1::feed:0ff"
+        ],
+        "dns.sb": [
+          "45.11.45.11",
+          "185.222.222.222",
+          "2a09::",
+          "2a11::"
+        ],
+        "dns.umbrella.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "dns.sse.cisco.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "engage.cloudflareclient.com": [
+          "162.159.192.1",
+          "2606:4700:d0::a29f:c001"
+        ]
+      },
+      "servers": [
+        {
+          "address": "localhost",
+          "domains": [
+            "geosite:category-ir",
+            "domain:ir"
+          ],
+          "skipFallback": true,
+          "tag": "direct-dns"
+        },
+        "https://cloudflare-dns.com/dns-query",
+        "https://dns.google/dns-query",
+        "8.8.8.8"
+      ],
+      "tag": "dns-module"
+    },
+    "inbounds": [
+      {
+        "tag": "socks",
+        "port": 10808,
+        "listen": "0.0.0.0",
+        "protocol": "mixed",
+        "sniffing": {
+          "enabled": false,
+          "destOverride": [
+            "http",
+            "tls"
+          ],
+          "routeOnly": false
+        },
+        "settings": {
+          "auth": "noauth",
+          "udp": true,
+          "allowTransparent": false
+        }
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "masque",
+        "settings": {
+          "address": "162.159.198.242",
+          "port": 1701,
+          "remoteDNS": [
+            "1.1.1.1",
+            "8.8.8.8"
+          ]
+        },
+        "streamSettings": {
+          "method": "masque",
+          "masqueSettings": {
+            "warp": {
+              "privateKey": "MHcCAQEEIKzJbE0sAnTsDfyt8PRHR1EvH99PVeayIPdkzfQrkZjfoAoGCCqGSM49AwEHoUQDQgAEIYaopo5wbaH5EBGFnhQ0by2+nvk7Fuozru0oyHEuhPMyr4jXroAKgnciMbDs5ZTqBKDYP2ROOcr5jhRJMPfHPQ==",
+              "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIaU7MToJm9NKp8YfGxR6r+/h4mcG7SxI8tsW8OR1A5tv/zCzVbCRRh2t87/kxnP6lAy0lkr7qYwu+ox+k3dr6w==",
+              "address": [
+                "172.16.0.2/32",
+                "2606:4700:110:84ab:b305:8892:c769:b376/128"
+              ]
+            }
+          },
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "www.cloudflare.com",
+            "alpn": [
+              "h2"
+            ]
+          }
+        },
+        "tag": "proxy"
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom"
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "AsIs",
+      "rules": [
+        {
+          "type": "field",
+          "outboundTag": "proxy",
+          "domain": [
+            "domain:googleapis.cn",
+            "domain:gstatic.com"
+          ]
+        },
+        {
+          "type": "field",
+          "port": "443",
+          "network": "udp",
+          "outboundTag": "block"
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "geosite:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "domain:ir",
+            "geosite:category-ir"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:ir"
+          ]
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "direct-dns"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "dns-module"
+          ],
+          "outboundTag": "proxy"
+        }
+      ]
+    },
+    "metrics": {
+      "listen": "127.0.0.1:10812"
+    },
+    "policy": {
+      "system": {
+        "statsOutboundUplink": true,
+        "statsOutboundDownlink": true
+      }
+    },
+    "stats": {},
+    "remarks": "H2 | Official | 162.159.198.242 | 1701 | MASQUE Nav"
+  },
+  {
+    "_Streisand": [
+      "Please keep the Xray core and your v2ray client up to date; some clients may be incompatible",
+      "Use MASQUE with official endpoints or official clients only; third-party resources may cause privacy leaks or losses",
+      "This config is completely free! Beware of scams, and share it with your friends!",
+      "For technical research only. Delete the config after 24 hours; any other use is prohibited!",
+      "Website - https://darknessshade.github.io/Masque-Generator/",
+      "Telegram - https://t.me/ConfigWireguard"
+    ],
+    "log": {
+      "loglevel": "warning"
+    },
+    "dns": {
+      "hosts": {
+        "one.one.one.one": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "1dot1dot1dot1.cloudflare-dns.com": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "dns.google": [
+          "8.8.8.8",
+          "8.8.4.4",
+          "2001:4860:4860::8888",
+          "2001:4860:4860::8844"
+        ],
+        "cloudflare-dns.com": [
+          "104.16.249.249",
+          "104.16.248.249",
+          "2606:4700::6810:f8f9",
+          "2606:4700::6810:f9f9"
+        ],
+        "dns.cloudflare.com": [
+          "162.159.61.8",
+          "172.64.41.8",
+          "2a06:98c1:52::8",
+          "2803:f800:53::8"
+        ],
+        "dns.quad9.net": [
+          "9.9.9.9",
+          "149.112.112.112",
+          "2620:fe::fe",
+          "2620:fe::9"
+        ],
+        "dns.yandex.net": [
+          "77.88.8.8",
+          "77.88.8.1",
+          "2a02:6b8::feed:0ff",
+          "2a02:6b8:0:1::feed:0ff"
+        ],
+        "dns.sb": [
+          "45.11.45.11",
+          "185.222.222.222",
+          "2a09::",
+          "2a11::"
+        ],
+        "dns.umbrella.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "dns.sse.cisco.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "engage.cloudflareclient.com": [
+          "162.159.192.1",
+          "2606:4700:d0::a29f:c001"
+        ]
+      },
+      "servers": [
+        {
+          "address": "localhost",
+          "domains": [
+            "geosite:category-ir",
+            "domain:ir"
+          ],
+          "skipFallback": true,
+          "tag": "direct-dns"
+        },
+        "https://cloudflare-dns.com/dns-query",
+        "https://dns.google/dns-query",
+        "8.8.8.8"
+      ],
+      "tag": "dns-module"
+    },
+    "inbounds": [
+      {
+        "tag": "socks",
+        "port": 10808,
+        "listen": "0.0.0.0",
+        "protocol": "mixed",
+        "sniffing": {
+          "enabled": false,
+          "destOverride": [
+            "http",
+            "tls"
+          ],
+          "routeOnly": false
+        },
+        "settings": {
+          "auth": "noauth",
+          "udp": true,
+          "allowTransparent": false
+        }
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "masque",
+        "settings": {
+          "address": "162.159.198.236",
+          "port": 1701,
+          "remoteDNS": [
+            "1.1.1.1",
+            "8.8.8.8"
+          ]
+        },
+        "streamSettings": {
+          "method": "masque",
+          "masqueSettings": {
+            "warp": {
+              "privateKey": "MHcCAQEEIKzJbE0sAnTsDfyt8PRHR1EvH99PVeayIPdkzfQrkZjfoAoGCCqGSM49AwEHoUQDQgAEIYaopo5wbaH5EBGFnhQ0by2+nvk7Fuozru0oyHEuhPMyr4jXroAKgnciMbDs5ZTqBKDYP2ROOcr5jhRJMPfHPQ==",
+              "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIaU7MToJm9NKp8YfGxR6r+/h4mcG7SxI8tsW8OR1A5tv/zCzVbCRRh2t87/kxnP6lAy0lkr7qYwu+ox+k3dr6w==",
+              "address": [
+                "172.16.0.2/32",
+                "2606:4700:110:84ab:b305:8892:c769:b376/128"
+              ]
+            }
+          },
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "www.cloudflare.com",
+            "alpn": [
+              "h2"
+            ]
+          }
+        },
+        "tag": "proxy"
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom"
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "AsIs",
+      "rules": [
+        {
+          "type": "field",
+          "outboundTag": "proxy",
+          "domain": [
+            "domain:googleapis.cn",
+            "domain:gstatic.com"
+          ]
+        },
+        {
+          "type": "field",
+          "port": "443",
+          "network": "udp",
+          "outboundTag": "block"
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "geosite:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "domain:ir",
+            "geosite:category-ir"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:ir"
+          ]
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "direct-dns"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "dns-module"
+          ],
+          "outboundTag": "proxy"
+        }
+      ]
+    },
+    "metrics": {
+      "listen": "127.0.0.1:10812"
+    },
+    "policy": {
+      "system": {
+        "statsOutboundUplink": true,
+        "statsOutboundDownlink": true
+      }
+    },
+    "stats": {},
+    "remarks": "H2 | Official | 162.159.198.236 | 1701 | MASQUE Nav"
+  },
+  {
+    "_Streisand": [
+      "Please keep the Xray core and your v2ray client up to date; some clients may be incompatible",
+      "Use MASQUE with official endpoints or official clients only; third-party resources may cause privacy leaks or losses",
+      "This config is completely free! Beware of scams, and share it with your friends!",
+      "For technical research only. Delete the config after 24 hours; any other use is prohibited!",
+      "Website - https://darknessshade.github.io/Masque-Generator/",
+      "Telegram - https://t.me/ConfigWireguard"
+    ],
+    "log": {
+      "loglevel": "warning"
+    },
+    "dns": {
+      "hosts": {
+        "one.one.one.one": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "1dot1dot1dot1.cloudflare-dns.com": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "dns.google": [
+          "8.8.8.8",
+          "8.8.4.4",
+          "2001:4860:4860::8888",
+          "2001:4860:4860::8844"
+        ],
+        "cloudflare-dns.com": [
+          "104.16.249.249",
+          "104.16.248.249",
+          "2606:4700::6810:f8f9",
+          "2606:4700::6810:f9f9"
+        ],
+        "dns.cloudflare.com": [
+          "162.159.61.8",
+          "172.64.41.8",
+          "2a06:98c1:52::8",
+          "2803:f800:53::8"
+        ],
+        "dns.quad9.net": [
+          "9.9.9.9",
+          "149.112.112.112",
+          "2620:fe::fe",
+          "2620:fe::9"
+        ],
+        "dns.yandex.net": [
+          "77.88.8.8",
+          "77.88.8.1",
+          "2a02:6b8::feed:0ff",
+          "2a02:6b8:0:1::feed:0ff"
+        ],
+        "dns.sb": [
+          "45.11.45.11",
+          "185.222.222.222",
+          "2a09::",
+          "2a11::"
+        ],
+        "dns.umbrella.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "dns.sse.cisco.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "engage.cloudflareclient.com": [
+          "162.159.192.1",
+          "2606:4700:d0::a29f:c001"
+        ]
+      },
+      "servers": [
+        {
+          "address": "localhost",
+          "domains": [
+            "geosite:category-ir",
+            "domain:ir"
+          ],
+          "skipFallback": true,
+          "tag": "direct-dns"
+        },
+        "https://cloudflare-dns.com/dns-query",
+        "https://dns.google/dns-query",
+        "8.8.8.8"
+      ],
+      "tag": "dns-module"
+    },
+    "inbounds": [
+      {
+        "tag": "socks",
+        "port": 10808,
+        "listen": "0.0.0.0",
+        "protocol": "mixed",
+        "sniffing": {
+          "enabled": false,
+          "destOverride": [
+            "http",
+            "tls"
+          ],
+          "routeOnly": false
+        },
+        "settings": {
+          "auth": "noauth",
+          "udp": true,
+          "allowTransparent": false
+        }
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "masque",
+        "settings": {
+          "address": "162.159.198.73",
+          "port": 443,
+          "remoteDNS": [
+            "1.1.1.1",
+            "8.8.8.8"
+          ]
+        },
+        "streamSettings": {
+          "method": "masque",
+          "masqueSettings": {
+            "warp": {
+              "privateKey": "MHcCAQEEIKzJbE0sAnTsDfyt8PRHR1EvH99PVeayIPdkzfQrkZjfoAoGCCqGSM49AwEHoUQDQgAEIYaopo5wbaH5EBGFnhQ0by2+nvk7Fuozru0oyHEuhPMyr4jXroAKgnciMbDs5ZTqBKDYP2ROOcr5jhRJMPfHPQ==",
+              "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIaU7MToJm9NKp8YfGxR6r+/h4mcG7SxI8tsW8OR1A5tv/zCzVbCRRh2t87/kxnP6lAy0lkr7qYwu+ox+k3dr6w==",
+              "address": [
+                "172.16.0.2/32",
+                "2606:4700:110:84ab:b305:8892:c769:b376/128"
+              ]
+            }
+          },
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "www.cloudflare.com",
+            "alpn": [
+              "h2"
+            ]
+          }
+        },
+        "tag": "proxy"
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom"
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "AsIs",
+      "rules": [
+        {
+          "type": "field",
+          "outboundTag": "proxy",
+          "domain": [
+            "domain:googleapis.cn",
+            "domain:gstatic.com"
+          ]
+        },
+        {
+          "type": "field",
+          "port": "443",
+          "network": "udp",
+          "outboundTag": "block"
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "geosite:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "domain:ir",
+            "geosite:category-ir"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:ir"
+          ]
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "direct-dns"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "dns-module"
+          ],
+          "outboundTag": "proxy"
+        }
+      ]
+    },
+    "metrics": {
+      "listen": "127.0.0.1:10812"
+    },
+    "policy": {
+      "system": {
+        "statsOutboundUplink": true,
+        "statsOutboundDownlink": true
+      }
+    },
+    "stats": {},
+    "remarks": "H2 | Official | 162.159.198.73 | 443 | MASQUE Nav"
+  },
+  {
+    "_Streisand": [
+      "Please keep the Xray core and your v2ray client up to date; some clients may be incompatible",
+      "Use MASQUE with official endpoints or official clients only; third-party resources may cause privacy leaks or losses",
+      "This config is completely free! Beware of scams, and share it with your friends!",
+      "For technical research only. Delete the config after 24 hours; any other use is prohibited!",
+      "Website - https://darknessshade.github.io/Masque-Generator/",
+      "Telegram - https://t.me/ConfigWireguard"
+    ],
+    "log": {
+      "loglevel": "warning"
+    },
+    "dns": {
+      "hosts": {
+        "one.one.one.one": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "1dot1dot1dot1.cloudflare-dns.com": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "dns.google": [
+          "8.8.8.8",
+          "8.8.4.4",
+          "2001:4860:4860::8888",
+          "2001:4860:4860::8844"
+        ],
+        "cloudflare-dns.com": [
+          "104.16.249.249",
+          "104.16.248.249",
+          "2606:4700::6810:f8f9",
+          "2606:4700::6810:f9f9"
+        ],
+        "dns.cloudflare.com": [
+          "162.159.61.8",
+          "172.64.41.8",
+          "2a06:98c1:52::8",
+          "2803:f800:53::8"
+        ],
+        "dns.quad9.net": [
+          "9.9.9.9",
+          "149.112.112.112",
+          "2620:fe::fe",
+          "2620:fe::9"
+        ],
+        "dns.yandex.net": [
+          "77.88.8.8",
+          "77.88.8.1",
+          "2a02:6b8::feed:0ff",
+          "2a02:6b8:0:1::feed:0ff"
+        ],
+        "dns.sb": [
+          "45.11.45.11",
+          "185.222.222.222",
+          "2a09::",
+          "2a11::"
+        ],
+        "dns.umbrella.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "dns.sse.cisco.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "engage.cloudflareclient.com": [
+          "162.159.192.1",
+          "2606:4700:d0::a29f:c001"
+        ]
+      },
+      "servers": [
+        {
+          "address": "localhost",
+          "domains": [
+            "geosite:category-ir",
+            "domain:ir"
+          ],
+          "skipFallback": true,
+          "tag": "direct-dns"
+        },
+        "https://cloudflare-dns.com/dns-query",
+        "https://dns.google/dns-query",
+        "8.8.8.8"
+      ],
+      "tag": "dns-module"
+    },
+    "inbounds": [
+      {
+        "tag": "socks",
+        "port": 10808,
+        "listen": "0.0.0.0",
+        "protocol": "mixed",
+        "sniffing": {
+          "enabled": false,
+          "destOverride": [
+            "http",
+            "tls"
+          ],
+          "routeOnly": false
+        },
+        "settings": {
+          "auth": "noauth",
+          "udp": true,
+          "allowTransparent": false
+        }
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "masque",
+        "settings": {
+          "address": "162.159.198.105",
+          "port": 4500,
+          "remoteDNS": [
+            "1.1.1.1",
+            "8.8.8.8"
+          ]
+        },
+        "streamSettings": {
+          "method": "masque",
+          "masqueSettings": {
+            "warp": {
+              "privateKey": "MHcCAQEEIKzJbE0sAnTsDfyt8PRHR1EvH99PVeayIPdkzfQrkZjfoAoGCCqGSM49AwEHoUQDQgAEIYaopo5wbaH5EBGFnhQ0by2+nvk7Fuozru0oyHEuhPMyr4jXroAKgnciMbDs5ZTqBKDYP2ROOcr5jhRJMPfHPQ==",
+              "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIaU7MToJm9NKp8YfGxR6r+/h4mcG7SxI8tsW8OR1A5tv/zCzVbCRRh2t87/kxnP6lAy0lkr7qYwu+ox+k3dr6w==",
+              "address": [
+                "172.16.0.2/32",
+                "2606:4700:110:84ab:b305:8892:c769:b376/128"
+              ]
+            }
+          },
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "www.cloudflare.com",
+            "alpn": [
+              "h2"
+            ]
+          }
+        },
+        "tag": "proxy"
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom"
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "AsIs",
+      "rules": [
+        {
+          "type": "field",
+          "outboundTag": "proxy",
+          "domain": [
+            "domain:googleapis.cn",
+            "domain:gstatic.com"
+          ]
+        },
+        {
+          "type": "field",
+          "port": "443",
+          "network": "udp",
+          "outboundTag": "block"
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "geosite:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "domain:ir",
+            "geosite:category-ir"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:ir"
+          ]
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "direct-dns"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "dns-module"
+          ],
+          "outboundTag": "proxy"
+        }
+      ]
+    },
+    "metrics": {
+      "listen": "127.0.0.1:10812"
+    },
+    "policy": {
+      "system": {
+        "statsOutboundUplink": true,
+        "statsOutboundDownlink": true
+      }
+    },
+    "stats": {},
+    "remarks": "H2 | Official | 162.159.198.105 | 4500 | MASQUE Nav"
+  },
+  {
+    "_Streisand": [
+      "Please keep the Xray core and your v2ray client up to date; some clients may be incompatible",
+      "Use MASQUE with official endpoints or official clients only; third-party resources may cause privacy leaks or losses",
+      "This config is completely free! Beware of scams, and share it with your friends!",
+      "For technical research only. Delete the config after 24 hours; any other use is prohibited!",
+      "Website - https://darknessshade.github.io/Masque-Generator/",
+      "Telegram - https://t.me/ConfigWireguard"
+    ],
+    "log": {
+      "loglevel": "warning"
+    },
+    "dns": {
+      "hosts": {
+        "one.one.one.one": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "1dot1dot1dot1.cloudflare-dns.com": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "dns.google": [
+          "8.8.8.8",
+          "8.8.4.4",
+          "2001:4860:4860::8888",
+          "2001:4860:4860::8844"
+        ],
+        "cloudflare-dns.com": [
+          "104.16.249.249",
+          "104.16.248.249",
+          "2606:4700::6810:f8f9",
+          "2606:4700::6810:f9f9"
+        ],
+        "dns.cloudflare.com": [
+          "162.159.61.8",
+          "172.64.41.8",
+          "2a06:98c1:52::8",
+          "2803:f800:53::8"
+        ],
+        "dns.quad9.net": [
+          "9.9.9.9",
+          "149.112.112.112",
+          "2620:fe::fe",
+          "2620:fe::9"
+        ],
+        "dns.yandex.net": [
+          "77.88.8.8",
+          "77.88.8.1",
+          "2a02:6b8::feed:0ff",
+          "2a02:6b8:0:1::feed:0ff"
+        ],
+        "dns.sb": [
+          "45.11.45.11",
+          "185.222.222.222",
+          "2a09::",
+          "2a11::"
+        ],
+        "dns.umbrella.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "dns.sse.cisco.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "engage.cloudflareclient.com": [
+          "162.159.192.1",
+          "2606:4700:d0::a29f:c001"
+        ]
+      },
+      "servers": [
+        {
+          "address": "localhost",
+          "domains": [
+            "geosite:category-ir",
+            "domain:ir"
+          ],
+          "skipFallback": true,
+          "tag": "direct-dns"
+        },
+        "https://cloudflare-dns.com/dns-query",
+        "https://dns.google/dns-query",
+        "8.8.8.8"
+      ],
+      "tag": "dns-module"
+    },
+    "inbounds": [
+      {
+        "tag": "socks",
+        "port": 10808,
+        "listen": "0.0.0.0",
+        "protocol": "mixed",
+        "sniffing": {
+          "enabled": false,
+          "destOverride": [
+            "http",
+            "tls"
+          ],
+          "routeOnly": false
+        },
+        "settings": {
+          "auth": "noauth",
+          "udp": true,
+          "allowTransparent": false
+        }
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "masque",
+        "settings": {
+          "address": "162.159.198.206",
+          "port": 500,
+          "remoteDNS": [
+            "1.1.1.1",
+            "8.8.8.8"
+          ]
+        },
+        "streamSettings": {
+          "method": "masque",
+          "masqueSettings": {
+            "warp": {
+              "privateKey": "MHcCAQEEIKzJbE0sAnTsDfyt8PRHR1EvH99PVeayIPdkzfQrkZjfoAoGCCqGSM49AwEHoUQDQgAEIYaopo5wbaH5EBGFnhQ0by2+nvk7Fuozru0oyHEuhPMyr4jXroAKgnciMbDs5ZTqBKDYP2ROOcr5jhRJMPfHPQ==",
+              "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIaU7MToJm9NKp8YfGxR6r+/h4mcG7SxI8tsW8OR1A5tv/zCzVbCRRh2t87/kxnP6lAy0lkr7qYwu+ox+k3dr6w==",
+              "address": [
+                "172.16.0.2/32",
+                "2606:4700:110:84ab:b305:8892:c769:b376/128"
+              ]
+            }
+          },
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "www.cloudflare.com",
+            "alpn": [
+              "h2"
+            ]
+          }
+        },
+        "tag": "proxy"
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom"
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "AsIs",
+      "rules": [
+        {
+          "type": "field",
+          "outboundTag": "proxy",
+          "domain": [
+            "domain:googleapis.cn",
+            "domain:gstatic.com"
+          ]
+        },
+        {
+          "type": "field",
+          "port": "443",
+          "network": "udp",
+          "outboundTag": "block"
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "geosite:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "domain:ir",
+            "geosite:category-ir"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:ir"
+          ]
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "direct-dns"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "dns-module"
+          ],
+          "outboundTag": "proxy"
+        }
+      ]
+    },
+    "metrics": {
+      "listen": "127.0.0.1:10812"
+    },
+    "policy": {
+      "system": {
+        "statsOutboundUplink": true,
+        "statsOutboundDownlink": true
+      }
+    },
+    "stats": {},
+    "remarks": "H2 | Official | 162.159.198.206 | 500 | MASQUE Nav"
+  },
+  {
+    "_Streisand": [
+      "Please keep the Xray core and your v2ray client up to date; some clients may be incompatible",
+      "Use MASQUE with official endpoints or official clients only; third-party resources may cause privacy leaks or losses",
+      "This config is completely free! Beware of scams, and share it with your friends!",
+      "For technical research only. Delete the config after 24 hours; any other use is prohibited!",
+      "Website - https://darknessshade.github.io/Masque-Generator/",
+      "Telegram - https://t.me/ConfigWireguard"
+    ],
+    "log": {
+      "loglevel": "warning"
+    },
+    "dns": {
+      "hosts": {
+        "one.one.one.one": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "1dot1dot1dot1.cloudflare-dns.com": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "dns.google": [
+          "8.8.8.8",
+          "8.8.4.4",
+          "2001:4860:4860::8888",
+          "2001:4860:4860::8844"
+        ],
+        "cloudflare-dns.com": [
+          "104.16.249.249",
+          "104.16.248.249",
+          "2606:4700::6810:f8f9",
+          "2606:4700::6810:f9f9"
+        ],
+        "dns.cloudflare.com": [
+          "162.159.61.8",
+          "172.64.41.8",
+          "2a06:98c1:52::8",
+          "2803:f800:53::8"
+        ],
+        "dns.quad9.net": [
+          "9.9.9.9",
+          "149.112.112.112",
+          "2620:fe::fe",
+          "2620:fe::9"
+        ],
+        "dns.yandex.net": [
+          "77.88.8.8",
+          "77.88.8.1",
+          "2a02:6b8::feed:0ff",
+          "2a02:6b8:0:1::feed:0ff"
+        ],
+        "dns.sb": [
+          "45.11.45.11",
+          "185.222.222.222",
+          "2a09::",
+          "2a11::"
+        ],
+        "dns.umbrella.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "dns.sse.cisco.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "engage.cloudflareclient.com": [
+          "162.159.192.1",
+          "2606:4700:d0::a29f:c001"
+        ]
+      },
+      "servers": [
+        {
+          "address": "localhost",
+          "domains": [
+            "geosite:category-ir",
+            "domain:ir"
+          ],
+          "skipFallback": true,
+          "tag": "direct-dns"
+        },
+        "https://cloudflare-dns.com/dns-query",
+        "https://dns.google/dns-query",
+        "8.8.8.8"
+      ],
+      "tag": "dns-module"
+    },
+    "inbounds": [
+      {
+        "tag": "socks",
+        "port": 10808,
+        "listen": "0.0.0.0",
+        "protocol": "mixed",
+        "sniffing": {
+          "enabled": false,
+          "destOverride": [
+            "http",
+            "tls"
+          ],
+          "routeOnly": false
+        },
+        "settings": {
+          "auth": "noauth",
+          "udp": true,
+          "allowTransparent": false
+        }
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "masque",
+        "settings": {
+          "address": "162.159.198.40",
+          "port": 1701,
+          "remoteDNS": [
+            "1.1.1.1",
+            "8.8.8.8"
+          ]
+        },
+        "streamSettings": {
+          "method": "masque",
+          "masqueSettings": {
+            "warp": {
+              "privateKey": "MHcCAQEEIKzJbE0sAnTsDfyt8PRHR1EvH99PVeayIPdkzfQrkZjfoAoGCCqGSM49AwEHoUQDQgAEIYaopo5wbaH5EBGFnhQ0by2+nvk7Fuozru0oyHEuhPMyr4jXroAKgnciMbDs5ZTqBKDYP2ROOcr5jhRJMPfHPQ==",
+              "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIaU7MToJm9NKp8YfGxR6r+/h4mcG7SxI8tsW8OR1A5tv/zCzVbCRRh2t87/kxnP6lAy0lkr7qYwu+ox+k3dr6w==",
+              "address": [
+                "172.16.0.2/32",
+                "2606:4700:110:84ab:b305:8892:c769:b376/128"
+              ]
+            }
+          },
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "www.cloudflare.com",
+            "alpn": [
+              "h2"
+            ]
+          }
+        },
+        "tag": "proxy"
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom"
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "AsIs",
+      "rules": [
+        {
+          "type": "field",
+          "outboundTag": "proxy",
+          "domain": [
+            "domain:googleapis.cn",
+            "domain:gstatic.com"
+          ]
+        },
+        {
+          "type": "field",
+          "port": "443",
+          "network": "udp",
+          "outboundTag": "block"
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "geosite:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "domain:ir",
+            "geosite:category-ir"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:ir"
+          ]
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "direct-dns"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "dns-module"
+          ],
+          "outboundTag": "proxy"
+        }
+      ]
+    },
+    "metrics": {
+      "listen": "127.0.0.1:10812"
+    },
+    "policy": {
+      "system": {
+        "statsOutboundUplink": true,
+        "statsOutboundDownlink": true
+      }
+    },
+    "stats": {},
+    "remarks": "H2 | Official | 162.159.198.40 | 1701 | MASQUE Nav"
+  },
+  {
+    "_Streisand": [
+      "Please keep the Xray core and your v2ray client up to date; some clients may be incompatible",
+      "Use MASQUE with official endpoints or official clients only; third-party resources may cause privacy leaks or losses",
+      "This config is completely free! Beware of scams, and share it with your friends!",
+      "For technical research only. Delete the config after 24 hours; any other use is prohibited!",
+      "Website - https://darknessshade.github.io/Masque-Generator/",
+      "Telegram - https://t.me/ConfigWireguard"
+    ],
+    "log": {
+      "loglevel": "warning"
+    },
+    "dns": {
+      "hosts": {
+        "one.one.one.one": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "1dot1dot1dot1.cloudflare-dns.com": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "dns.google": [
+          "8.8.8.8",
+          "8.8.4.4",
+          "2001:4860:4860::8888",
+          "2001:4860:4860::8844"
+        ],
+        "cloudflare-dns.com": [
+          "104.16.249.249",
+          "104.16.248.249",
+          "2606:4700::6810:f8f9",
+          "2606:4700::6810:f9f9"
+        ],
+        "dns.cloudflare.com": [
+          "162.159.61.8",
+          "172.64.41.8",
+          "2a06:98c1:52::8",
+          "2803:f800:53::8"
+        ],
+        "dns.quad9.net": [
+          "9.9.9.9",
+          "149.112.112.112",
+          "2620:fe::fe",
+          "2620:fe::9"
+        ],
+        "dns.yandex.net": [
+          "77.88.8.8",
+          "77.88.8.1",
+          "2a02:6b8::feed:0ff",
+          "2a02:6b8:0:1::feed:0ff"
+        ],
+        "dns.sb": [
+          "45.11.45.11",
+          "185.222.222.222",
+          "2a09::",
+          "2a11::"
+        ],
+        "dns.umbrella.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "dns.sse.cisco.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "engage.cloudflareclient.com": [
+          "162.159.192.1",
+          "2606:4700:d0::a29f:c001"
+        ]
+      },
+      "servers": [
+        {
+          "address": "localhost",
+          "domains": [
+            "geosite:category-ir",
+            "domain:ir"
+          ],
+          "skipFallback": true,
+          "tag": "direct-dns"
+        },
+        "https://cloudflare-dns.com/dns-query",
+        "https://dns.google/dns-query",
+        "8.8.8.8"
+      ],
+      "tag": "dns-module"
+    },
+    "inbounds": [
+      {
+        "tag": "socks",
+        "port": 10808,
+        "listen": "0.0.0.0",
+        "protocol": "mixed",
+        "sniffing": {
+          "enabled": false,
+          "destOverride": [
+            "http",
+            "tls"
+          ],
+          "routeOnly": false
+        },
+        "settings": {
+          "auth": "noauth",
+          "udp": true,
+          "allowTransparent": false
+        }
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "masque",
+        "settings": {
+          "address": "162.159.198.233",
+          "port": 1701,
+          "remoteDNS": [
+            "1.1.1.1",
+            "8.8.8.8"
+          ]
+        },
+        "streamSettings": {
+          "method": "masque",
+          "masqueSettings": {
+            "warp": {
+              "privateKey": "MHcCAQEEIKzJbE0sAnTsDfyt8PRHR1EvH99PVeayIPdkzfQrkZjfoAoGCCqGSM49AwEHoUQDQgAEIYaopo5wbaH5EBGFnhQ0by2+nvk7Fuozru0oyHEuhPMyr4jXroAKgnciMbDs5ZTqBKDYP2ROOcr5jhRJMPfHPQ==",
+              "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIaU7MToJm9NKp8YfGxR6r+/h4mcG7SxI8tsW8OR1A5tv/zCzVbCRRh2t87/kxnP6lAy0lkr7qYwu+ox+k3dr6w==",
+              "address": [
+                "172.16.0.2/32",
+                "2606:4700:110:84ab:b305:8892:c769:b376/128"
+              ]
+            }
+          },
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "www.cloudflare.com",
+            "alpn": [
+              "h2"
+            ]
+          }
+        },
+        "tag": "proxy"
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom"
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "AsIs",
+      "rules": [
+        {
+          "type": "field",
+          "outboundTag": "proxy",
+          "domain": [
+            "domain:googleapis.cn",
+            "domain:gstatic.com"
+          ]
+        },
+        {
+          "type": "field",
+          "port": "443",
+          "network": "udp",
+          "outboundTag": "block"
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "geosite:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "domain:ir",
+            "geosite:category-ir"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:ir"
+          ]
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "direct-dns"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "dns-module"
+          ],
+          "outboundTag": "proxy"
+        }
+      ]
+    },
+    "metrics": {
+      "listen": "127.0.0.1:10812"
+    },
+    "policy": {
+      "system": {
+        "statsOutboundUplink": true,
+        "statsOutboundDownlink": true
+      }
+    },
+    "stats": {},
+    "remarks": "POORIARED H2 | Official | 162.159.198.233 | 1701 | MASQUE Nav"
+  },
+  {
+    "_Streisand": [
+      "Please keep the Xray core and your v2ray client up to date; some clients may be incompatible",
+      "Use MASQUE with official endpoints or official clients only; third-party resources may cause privacy leaks or losses",
+      "This config is completely free! Beware of scams, and share it with your friends!",
+      "For technical research only. Delete the config after 24 hours; any other use is prohibited!",
+      "Website - https://darknessshade.github.io/Masque-Generator/",
+      "Telegram - https://t.me/ConfigWireguard"
+    ],
+    "log": {
+      "loglevel": "warning"
+    },
+    "dns": {
+      "hosts": {
+        "one.one.one.one": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "1dot1dot1dot1.cloudflare-dns.com": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "dns.google": [
+          "8.8.8.8",
+          "8.8.4.4",
+          "2001:4860:4860::8888",
+          "2001:4860:4860::8844"
+        ],
+        "cloudflare-dns.com": [
+          "104.16.249.249",
+          "104.16.248.249",
+          "2606:4700::6810:f8f9",
+          "2606:4700::6810:f9f9"
+        ],
+        "dns.cloudflare.com": [
+          "162.159.61.8",
+          "172.64.41.8",
+          "2a06:98c1:52::8",
+          "2803:f800:53::8"
+        ],
+        "dns.quad9.net": [
+          "9.9.9.9",
+          "149.112.112.112",
+          "2620:fe::fe",
+          "2620:fe::9"
+        ],
+        "dns.yandex.net": [
+          "77.88.8.8",
+          "77.88.8.1",
+          "2a02:6b8::feed:0ff",
+          "2a02:6b8:0:1::feed:0ff"
+        ],
+        "dns.sb": [
+          "45.11.45.11",
+          "185.222.222.222",
+          "2a09::",
+          "2a11::"
+        ],
+        "dns.umbrella.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "dns.sse.cisco.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "engage.cloudflareclient.com": [
+          "162.159.192.1",
+          "2606:4700:d0::a29f:c001"
+        ]
+      },
+      "servers": [
+        {
+          "address": "localhost",
+          "domains": [
+            "geosite:category-ir",
+            "domain:ir"
+          ],
+          "skipFallback": true,
+          "tag": "direct-dns"
+        },
+        "https://cloudflare-dns.com/dns-query",
+        "https://dns.google/dns-query",
+        "8.8.8.8"
+      ],
+      "tag": "dns-module"
+    },
+    "inbounds": [
+      {
+        "tag": "socks",
+        "port": 10808,
+        "listen": "0.0.0.0",
+        "protocol": "mixed",
+        "sniffing": {
+          "enabled": false,
+          "destOverride": [
+            "http",
+            "tls"
+          ],
+          "routeOnly": false
+        },
+        "settings": {
+          "auth": "noauth",
+          "udp": true,
+          "allowTransparent": false
+        }
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "masque",
+        "settings": {
+          "address": "162.159.198.46",
+          "port": 500,
+          "remoteDNS": [
+            "1.1.1.1",
+            "8.8.8.8"
+          ]
+        },
+        "streamSettings": {
+          "method": "masque",
+          "masqueSettings": {
+            "warp": {
+              "privateKey": "MHcCAQEEIKzJbE0sAnTsDfyt8PRHR1EvH99PVeayIPdkzfQrkZjfoAoGCCqGSM49AwEHoUQDQgAEIYaopo5wbaH5EBGFnhQ0by2+nvk7Fuozru0oyHEuhPMyr4jXroAKgnciMbDs5ZTqBKDYP2ROOcr5jhRJMPfHPQ==",
+              "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIaU7MToJm9NKp8YfGxR6r+/h4mcG7SxI8tsW8OR1A5tv/zCzVbCRRh2t87/kxnP6lAy0lkr7qYwu+ox+k3dr6w==",
+              "address": [
+                "172.16.0.2/32",
+                "2606:4700:110:84ab:b305:8892:c769:b376/128"
+              ]
+            }
+          },
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "www.cloudflare.com",
+            "alpn": [
+              "h2"
+            ]
+          }
+        },
+        "tag": "proxy"
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom"
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "AsIs",
+      "rules": [
+        {
+          "type": "field",
+          "outboundTag": "proxy",
+          "domain": [
+            "domain:googleapis.cn",
+            "domain:gstatic.com"
+          ]
+        },
+        {
+          "type": "field",
+          "port": "443",
+          "network": "udp",
+          "outboundTag": "block"
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "geosite:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "domain:ir",
+            "geosite:category-ir"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:ir"
+          ]
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "direct-dns"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "dns-module"
+          ],
+          "outboundTag": "proxy"
+        }
+      ]
+    },
+    "metrics": {
+      "listen": "127.0.0.1:10812"
+    },
+    "policy": {
+      "system": {
+        "statsOutboundUplink": true,
+        "statsOutboundDownlink": true
+      }
+    },
+    "stats": {},
+    "remarks": "POORIARED H2 | Official | 162.159.198.46 | 500 | MASQUE Nav"
+  },
+  {
+    "_Streisand": [
+      "Please keep the Xray core and your v2ray client up to date; some clients may be incompatible",
+      "Use MASQUE with official endpoints or official clients only; third-party resources may cause privacy leaks or losses",
+      "This config is completely free! Beware of scams, and share it with your friends!",
+      "For technical research only. Delete the config after 24 hours; any other use is prohibited!",
+      "Website - https://darknessshade.github.io/Masque-Generator/",
+      "Telegram - https://t.me/ConfigWireguard"
+    ],
+    "log": {
+      "loglevel": "warning"
+    },
+    "dns": {
+      "hosts": {
+        "one.one.one.one": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "1dot1dot1dot1.cloudflare-dns.com": [
+          "1.1.1.1",
+          "1.0.0.1",
+          "2606:4700:4700::1111",
+          "2606:4700:4700::1001"
+        ],
+        "dns.google": [
+          "8.8.8.8",
+          "8.8.4.4",
+          "2001:4860:4860::8888",
+          "2001:4860:4860::8844"
+        ],
+        "cloudflare-dns.com": [
+          "104.16.249.249",
+          "104.16.248.249",
+          "2606:4700::6810:f8f9",
+          "2606:4700::6810:f9f9"
+        ],
+        "dns.cloudflare.com": [
+          "162.159.61.8",
+          "172.64.41.8",
+          "2a06:98c1:52::8",
+          "2803:f800:53::8"
+        ],
+        "dns.quad9.net": [
+          "9.9.9.9",
+          "149.112.112.112",
+          "2620:fe::fe",
+          "2620:fe::9"
+        ],
+        "dns.yandex.net": [
+          "77.88.8.8",
+          "77.88.8.1",
+          "2a02:6b8::feed:0ff",
+          "2a02:6b8:0:1::feed:0ff"
+        ],
+        "dns.sb": [
+          "45.11.45.11",
+          "185.222.222.222",
+          "2a09::",
+          "2a11::"
+        ],
+        "dns.umbrella.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "dns.sse.cisco.com": [
+          "208.67.220.220",
+          "208.67.222.222",
+          "2620:119:35::35",
+          "2620:119:53::53"
+        ],
+        "engage.cloudflareclient.com": [
+          "162.159.192.1",
+          "2606:4700:d0::a29f:c001"
+        ]
+      },
+      "servers": [
+        {
+          "address": "localhost",
+          "domains": [
+            "geosite:category-ir",
+            "domain:ir"
+          ],
+          "skipFallback": true,
+          "tag": "direct-dns"
+        },
+        "https://cloudflare-dns.com/dns-query",
+        "https://dns.google/dns-query",
+        "8.8.8.8"
+      ],
+      "tag": "dns-module"
+    },
+    "inbounds": [
+      {
+        "tag": "socks",
+        "port": 10808,
+        "listen": "0.0.0.0",
+        "protocol": "mixed",
+        "sniffing": {
+          "enabled": false,
+          "destOverride": [
+            "http",
+            "tls"
+          ],
+          "routeOnly": false
+        },
+        "settings": {
+          "auth": "noauth",
+          "udp": true,
+          "allowTransparent": false
+        }
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "masque",
+        "settings": {
+          "address": "162.159.198.192",
+          "port": 1701,
+          "remoteDNS": [
+            "1.1.1.1",
+            "8.8.8.8"
+          ]
+        },
+        "streamSettings": {
+          "method": "masque",
+          "masqueSettings": {
+            "warp": {
+              "privateKey": "MHcCAQEEIKzJbE0sAnTsDfyt8PRHR1EvH99PVeayIPdkzfQrkZjfoAoGCCqGSM49AwEHoUQDQgAEIYaopo5wbaH5EBGFnhQ0by2+nvk7Fuozru0oyHEuhPMyr4jXroAKgnciMbDs5ZTqBKDYP2ROOcr5jhRJMPfHPQ==",
+              "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIaU7MToJm9NKp8YfGxR6r+/h4mcG7SxI8tsW8OR1A5tv/zCzVbCRRh2t87/kxnP6lAy0lkr7qYwu+ox+k3dr6w==",
+              "address": [
+                "172.16.0.2/32",
+                "2606:4700:110:84ab:b305:8892:c769:b376/128"
+              ]
+            }
+          },
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "www.cloudflare.com",
+            "alpn": [
+              "h2"
+            ]
+          }
+        },
+        "tag": "proxy"
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom"
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "AsIs",
+      "rules": [
+        {
+          "type": "field",
+          "outboundTag": "proxy",
+          "domain": [
+            "domain:googleapis.cn",
+            "domain:gstatic.com"
+          ]
+        },
+        {
+          "type": "field",
+          "port": "443",
+          "network": "udp",
+          "outboundTag": "block"
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "geosite:private"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "domain": [
+            "domain:ir",
+            "geosite:category-ir"
+          ]
+        },
+        {
+          "type": "field",
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:ir"
+          ]
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "direct-dns"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "type": "field",
+          "inboundTag": [
+            "dns-module"
+          ],
+          "outboundTag": "proxy"
+        }
+      ]
+    },
+    "metrics": {
+      "listen": "127.0.0.1:10812"
+    },
+    "policy": {
+      "system": {
+        "statsOutboundUplink": true,
+        "statsOutboundDownlink": true
+      }
+    },
+    "stats": {},
+    "remarks": "POORIARED H2 | Official | 162.159.198.192 | 1701 | MASQUE Nav"
+  }
+]
