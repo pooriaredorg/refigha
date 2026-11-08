@@ -6,7 +6,7 @@
       "This config is completely free! Beware of scams, and share it with your friends!",
       "For technical research only. Delete the config after 24 hours; any other use is prohibited!",
       "Website - https://darknessshade.github.io/Masque-Generator/",
-      "Telegram - https://t.me/ConfigWireguard"
+      "Telegram - https://t.me/pooriared"
     ],
     "log": {
       "loglevel": "warning"
